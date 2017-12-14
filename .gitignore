@@ -1,3 +1,15 @@
 
+#过滤文件
 *.info
 *.meta
+
+
+#过滤文件夹
+Library/
+Temp/
+Assets/CrazyNitroxen
+Assets/Fighter Pack Bundle FREE
+Assets/FireWing
+Assets/Jiggly Bubble Free
+Assets/Mixamo
+Assets/TaichiCharacterPack
